@@ -22,7 +22,7 @@ def main():
     p = pd.Panel(d, 
                  items=pd.Series(np.arange(n), name="subject"),
                  major_axis=pd.Series(x, name="timepoint"),
-                 minor_axis=pd.Series(["V1", "IPS", "AG"], name="ROI"),
+                 minor_axis=pd.Series(["IPS", "AG", "V1"], name="ROI"),
                  )
 
     df = p.to_frame().stack().reset_index(name="BOLD signal")
