@@ -15,7 +15,7 @@ def main():
     df["alone"] = ~(df.parch + df.sibsp).astype(bool)
     df = df.drop(["name", "ticket", "cabin"], axis=1)
 
-    df.to_csv("titanic.csv")
+    df.to_csv("titanic.csv", index=False)
 
 
 def woman_child_or_man(passenger):
