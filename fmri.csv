@@ -1,4 +1,4 @@
-subject,timepoint,condition,region,signal
+subject,timepoint,event,region,signal
 s0,0,cue,frontal,0.00776611182029
 s1,0,cue,frontal,-0.040937102696
 s2,0,cue,frontal,0.00780174578614
