@@ -21,3 +21,5 @@ A partial list of where these datasets originate from.
 - `penguins`: https://github.com/allisonhorst/penguins
 
 - `planets`: https://exoplanets.nasa.gov/exoplanet-catalog/
+
+- `darwins_finches`: https://datadryad.org/stash/dataset/doi:10.5061/dryad.g6g3h
