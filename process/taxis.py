@@ -9,6 +9,7 @@ COLUMN_MAP = {
     "tip_amount": "tip",
     "tolls_amount": "tolls",
     "total_amount": "total",
+    "color": "color",
 }
 
 PAYMENT_TYPES = {
@@ -35,8 +36,10 @@ if __name__ == "__main__":
         .assign(dropoff_zone=raw["dolocationid"].map(loc["zone"]))
         .assign(pickup_borough=raw["pulocationid"].map(loc["borough"]))
         .assign(dropoff_borough=raw["dolocationid"].map(loc["borough"]))
+        .loc[lambda x: x["dropoff_borough"] != "EWR"]
         .loc[lambda x: x.eval("dropoff - pickup").dt.seconds < MAX_TRIP_DURATION]
-        .loc[lambda x: x["fare"] > 0]
+        .loc[lambda x: (x["fare"] > 0) & (x["fare"] < 200)]
+        .loc[lambda x: (x["tip"] / x["fare"]) < 1]
     )
 
     clean.to_csv("taxis.csv", index=False)
