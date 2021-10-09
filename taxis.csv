@@ -581,7 +581,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-30 13:33:09,2019-03-30 13:58:46,1,4.7,19.5,3.0,0.0,25.8,credit card,Flatiron,Downtown Brooklyn/MetroTech,Manhattan,Brooklyn
 2019-03-15 08:11:48,2019-03-15 08:21:37,1,1.4,8.0,0.0,0.0,8.8,credit card,Central Harlem North,East Harlem North,Manhattan,Manhattan
 2019-03-25 12:12:27,2019-03-25 12:35:45,1,3.71,17.5,1.0,0.0,21.8,credit card,Battery Park City,Union Sq,Manhattan,Manhattan
-2019-03-31 18:34:20,2019-03-31 19:04:03,1,12.92,-37.5,0.0,0.0,-38.3,cash,Sunnyside,Fresh Meadows,Queens,Queens
 2019-03-30 21:50:48,2019-03-30 21:55:51,1,0.7,5.0,0.0,0.0,8.8,cash,Clinton East,East Chelsea,Manhattan,Manhattan
 2019-03-05 09:04:49,2019-03-05 09:19:00,1,0.86,9.5,2.56,0.0,15.36,credit card,Midtown North,Midtown Center,Manhattan,Manhattan
 2019-03-02 21:01:16,2019-03-02 21:09:49,1,1.73,8.0,2.36,0.0,14.16,credit card,Flatiron,Clinton West,Manhattan,Manhattan
@@ -1024,7 +1023,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-22 14:50:18,2019-03-22 15:08:57,2,2.43,13.5,3.36,0.0,20.16,credit card,Times Sq/Theatre District,Lenox Hill West,Manhattan,Manhattan
 2019-03-28 19:52:34,2019-03-28 20:01:21,2,1.1,7.0,0.0,0.0,11.3,cash,Midtown North,Clinton East,Manhattan,Manhattan
 2019-03-27 15:25:33,2019-03-27 15:42:30,1,1.04,11.0,0.0,0.0,14.3,cash,Murray Hill,Garment District,Manhattan,Manhattan
-2019-03-19 14:48:27,2019-03-19 14:48:43,3,0.02,-2.5,0.0,0.0,-3.3,,JFK Airport,JFK Airport,Queens,Queens
 2019-03-10 01:59:36,2019-03-10 03:08:57,1,1.23,7.5,1.7,0.0,13.0,credit card,Lower East Side,Gramercy,Manhattan,Manhattan
 2019-03-06 15:46:25,2019-03-06 16:26:21,1,7.0,29.0,6.45,0.0,38.75,credit card,Morningside Heights,Hudson Sq,Manhattan,Manhattan
 2019-03-17 11:01:20,2019-03-17 11:10:49,1,2.1,9.0,1.0,0.0,13.3,credit card,Greenwich Village South,Kips Bay,Manhattan,Manhattan
@@ -1336,7 +1334,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-08 08:00:02,2019-03-08 08:22:01,6,4.78,19.0,6.69,0.0,28.99,credit card,UN/Turtle Bay South,East Harlem North,Manhattan,Manhattan
 2019-03-06 20:55:02,2019-03-06 21:00:28,1,0.68,5.5,1.1,0.0,10.4,credit card,Greenwich Village North,Meatpacking/West Village West,Manhattan,Manhattan
 2019-03-13 20:15:13,2019-03-13 20:31:20,2,2.7,13.0,4.2,0.0,21.0,credit card,Central Park,Penn Station/Madison Sq West,Manhattan,Manhattan
-2019-03-09 09:31:36,2019-03-09 09:33:46,1,0.16,-3.5,0.0,0.0,-6.8,,Midtown East,Murray Hill,Manhattan,Manhattan
 2019-03-24 15:34:57,2019-03-24 16:01:58,1,7.87,26.0,5.26,5.76,40.32,credit card,LaGuardia Airport,Upper East Side North,Queens,Manhattan
 2019-03-05 18:25:46,2019-03-05 18:35:53,2,0.92,8.0,2.0,0.0,14.3,credit card,UN/Turtle Bay South,Murray Hill,Manhattan,Manhattan
 2019-03-30 10:39:06,2019-03-30 10:48:23,1,1.2,8.0,2.26,0.0,13.56,credit card,Upper West Side South,Manhattan Valley,Manhattan,Manhattan
@@ -1718,7 +1715,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-17 13:00:52,2019-03-17 13:28:35,1,1.77,17.5,4.0,0.0,24.8,credit card,Penn Station/Madison Sq West,Midtown North,Manhattan,Manhattan
 2019-03-19 18:55:15,2019-03-19 19:24:02,1,12.33,36.0,8.06,0.0,48.36,credit card,LaGuardia Airport,TriBeCa/Civic Center,Queens,Manhattan
 2019-03-22 14:20:00,2019-03-22 14:21:29,1,0.61,4.0,1.2,0.0,6.0,credit card,Upper West Side North,Bloomingdale,Manhattan,Manhattan
-2019-03-05 18:33:06,2019-03-05 18:39:48,1,0.9,-6.5,0.0,0.0,-8.3,,,,,
 2019-03-09 00:01:56,2019-03-09 00:13:00,1,1.2,8.5,2.45,0.0,14.75,credit card,East Village,Greenwich Village South,Manhattan,Manhattan
 2019-03-27 23:30:48,2019-03-27 23:37:26,5,0.95,6.0,1.96,0.0,11.76,credit card,Financial District North,TriBeCa/Civic Center,Manhattan,Manhattan
 2019-03-12 19:19:18,2019-03-12 19:29:06,5,1.75,8.5,1.0,0.0,13.8,credit card,UN/Turtle Bay South,Midtown East,Manhattan,Manhattan
@@ -1913,7 +1909,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-08 02:47:55,2019-03-08 02:49:21,1,0.51,3.5,1.0,0.0,8.3,credit card,Times Sq/Theatre District,Penn Station/Madison Sq West,Manhattan,Manhattan
 2019-03-21 07:16:07,2019-03-21 07:28:09,2,2.8,11.0,1.0,0.0,15.3,credit card,Kips Bay,Yorkville East,Manhattan,Manhattan
 2019-03-05 15:20:33,2019-03-05 16:02:24,1,9.93,33.5,5.0,5.76,47.56,credit card,LaGuardia Airport,Upper East Side South,Queens,Manhattan
-2019-03-15 13:58:30,2019-03-15 14:01:21,6,0.44,-4.0,0.0,0.0,-7.3,,Lincoln Square West,Upper West Side South,Manhattan,Manhattan
 2019-03-23 03:27:50,2019-03-23 03:49:37,1,8.23,26.0,0.0,0.0,29.8,cash,Times Sq/Theatre District,LaGuardia Airport,Manhattan,Queens
 2019-03-20 12:31:10,2019-03-20 12:44:12,1,1.5,10.0,0.0,0.0,13.3,cash,Upper West Side South,Midtown North,Manhattan,Manhattan
 2019-03-06 00:58:12,2019-03-06 01:08:32,1,2.29,10.0,2.76,0.0,16.56,credit card,Midtown Center,Lincoln Square East,Manhattan,Manhattan
@@ -2427,7 +2422,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-03 17:12:21,2019-03-03 17:23:12,1,1.94,9.5,0.0,0.0,12.8,cash,Upper West Side South,Times Sq/Theatre District,Manhattan,Manhattan
 2019-03-14 15:30:14,2019-03-14 15:40:31,2,1.1,8.0,1.7,0.0,13.0,credit card,Lincoln Square East,Lenox Hill West,Manhattan,Manhattan
 2019-03-09 09:42:51,2019-03-09 10:01:56,1,4.48,17.5,3.0,0.0,23.8,credit card,Times Sq/Theatre District,World Trade Center,Manhattan,Manhattan
-2019-03-22 10:11:17,2019-03-22 10:20:47,1,0.84,-6.5,0.0,0.0,-9.8,,Upper East Side North,Yorkville East,Manhattan,Manhattan
 2019-03-31 09:51:54,2019-03-31 09:59:36,1,1.7,7.5,2.0,0.0,12.8,credit card,UN/Turtle Bay South,Central Park,Manhattan,Manhattan
 2019-03-21 19:07:07,2019-03-21 19:38:05,6,6.39,23.5,4.0,0.0,31.8,credit card,Meatpacking/West Village West,Fort Greene,Manhattan,Brooklyn
 2019-03-13 06:41:18,2019-03-13 06:54:32,1,3.41,12.5,2.0,0.0,17.8,credit card,Battery Park City,Garment District,Manhattan,Manhattan
@@ -2851,7 +2845,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-03 14:34:13,2019-03-03 14:54:09,1,3.15,14.5,3.56,0.0,21.36,credit card,Times Sq/Theatre District,SoHo,Manhattan,Manhattan
 2019-03-03 15:43:21,2019-03-03 16:02:58,1,3.43,16.0,3.86,0.0,23.16,credit card,West Village,Upper East Side South,Manhattan,Manhattan
 2019-03-22 12:30:39,2019-03-22 12:37:52,1,0.85,6.5,1.0,0.0,10.8,credit card,Midtown Center,Midtown South,Manhattan,Manhattan
-2019-03-01 21:08:36,2019-03-01 21:22:02,2,2.95,-12.0,0.0,0.0,-15.8,,Lenox Hill West,Manhattan Valley,Manhattan,Manhattan
 2019-03-19 19:56:13,2019-03-19 20:03:08,1,2.15,8.0,2.46,0.0,14.76,credit card,Lincoln Square East,Bloomingdale,Manhattan,Manhattan
 2019-03-27 21:08:16,2019-03-27 21:28:31,2,3.4,15.5,1.4,0.0,20.7,credit card,Midtown Center,Lower East Side,Manhattan,Manhattan
 2019-03-29 10:44:00,2019-03-29 10:48:19,1,0.7,5.0,0.6,0.0,6.4,credit card,Morningside Heights,Morningside Heights,Manhattan,Manhattan
@@ -2914,7 +2907,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-10 13:50:02,2019-03-10 14:02:22,1,1.8,9.5,2.56,0.0,15.36,credit card,Upper West Side South,Clinton East,Manhattan,Manhattan
 2019-03-15 16:51:55,2019-03-15 16:55:58,3,0.82,5.0,1.49,0.0,10.79,credit card,UN/Turtle Bay South,Kips Bay,Manhattan,Manhattan
 2019-03-01 18:02:09,2019-03-01 18:09:41,1,0.68,6.0,2.06,0.0,12.36,credit card,Kips Bay,Murray Hill,Manhattan,Manhattan
-2019-03-31 16:54:38,2019-03-31 16:54:57,1,0.0,-2.5,0.0,0.0,-3.3,,JFK Airport,JFK Airport,Queens,Queens
 2019-03-05 08:54:04,2019-03-05 08:57:22,1,0.4,4.0,0.0,0.0,4.8,credit card,Central Harlem,Central Harlem North,Manhattan,Manhattan
 2019-03-17 20:40:01,2019-03-17 20:48:02,1,2.0,8.5,2.45,0.0,14.75,credit card,Midtown East,Yorkville East,Manhattan,Manhattan
 2019-03-23 16:45:07,2019-03-23 17:01:02,1,1.74,11.0,2.86,0.0,17.16,credit card,Clinton East,Penn Station/Madison Sq West,Manhattan,Manhattan
@@ -3608,7 +3600,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-19 09:40:36,2019-03-19 09:49:52,2,1.46,8.0,0.0,0.0,11.3,cash,Lenox Hill East,Midtown North,Manhattan,Manhattan
 2019-03-28 12:36:11,2019-03-28 12:46:25,1,1.16,8.0,0.0,0.0,11.3,cash,Kips Bay,Flatiron,Manhattan,Manhattan
 2019-03-23 16:04:52,2019-03-23 16:21:59,1,2.1,12.0,1.0,0.0,16.3,credit card,Lenox Hill East,Midtown Center,Manhattan,Manhattan
-2019-03-23 04:24:59,2019-03-23 04:26:08,1,0.22,-3.0,0.0,0.0,-4.3,,Long Island City/Queens Plaza,Long Island City/Queens Plaza,Queens,Queens
 2019-03-20 23:13:09,2019-03-20 23:23:12,1,2.15,9.5,3.32,0.0,16.62,credit card,Upper East Side South,Upper West Side North,Manhattan,Manhattan
 2019-03-07 16:02:35,2019-03-07 16:31:17,1,3.75,19.0,0.0,0.0,23.3,credit card,Clinton East,TriBeCa/Civic Center,Manhattan,Manhattan
 2019-03-08 06:24:13,2019-03-08 06:28:40,2,0.67,5.0,0.0,0.0,8.3,cash,Clinton East,Midtown Center,Manhattan,Manhattan
@@ -3963,7 +3954,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-05 06:34:33,2019-03-05 07:28:55,1,13.5,46.5,9.46,0.0,56.76,credit card,JFK Airport,Fort Greene,Queens,Brooklyn
 2019-03-19 20:39:38,2019-03-19 20:48:24,1,1.3,7.5,2.25,0.0,13.55,credit card,Times Sq/Theatre District,Flatiron,Manhattan,Manhattan
 2019-03-12 08:29:34,2019-03-12 08:42:51,3,4.85,16.0,4.82,0.0,24.12,credit card,Murray Hill,Financial District South,Manhattan,Manhattan
-2019-03-16 21:19:32,2019-03-16 21:34:22,1,7.4,-22.0,0.0,-5.76,-29.06,,LaGuardia Airport,East Harlem South,Queens,Manhattan
 2019-03-07 17:44:09,2019-03-07 17:55:21,6,0.97,6.5,0.0,0.0,10.8,credit card,SoHo,Greenwich Village South,Manhattan,Manhattan
 2019-03-21 12:00:58,2019-03-21 12:20:17,3,1.31,12.5,3.16,0.0,18.96,credit card,Penn Station/Madison Sq West,Gramercy,Manhattan,Manhattan
 2019-03-23 02:33:04,2019-03-23 02:56:47,1,6.96,23.5,5.46,0.0,32.76,credit card,Times Sq/Theatre District,Williamsburg (North Side),Manhattan,Brooklyn
@@ -5785,7 +5775,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-21 14:15:55,2019-03-21 14:22:13,1,0.93,6.0,0.0,0.0,9.3,cash,Yorkville East,Upper East Side North,Manhattan,Manhattan
 2019-03-29 12:47:47,2019-03-29 12:57:24,5,1.76,8.5,1.2,0.0,13.0,credit card,Central Park,Clinton East,Manhattan,Manhattan
 2019-03-20 23:27:04,2019-03-20 23:40:35,1,3.4,12.5,1.2,0.0,17.5,credit card,Midtown Center,TriBeCa/Civic Center,Manhattan,Manhattan
-2019-03-24 03:56:05,2019-03-24 03:58:38,2,0.54,-4.0,0.0,0.0,-7.8,,TriBeCa/Civic Center,Chinatown,Manhattan,Manhattan
 2019-03-05 09:11:16,2019-03-05 09:18:41,1,0.9,6.5,1.0,0.0,10.8,credit card,East Chelsea,Union Sq,Manhattan,Manhattan
 2019-03-02 00:27:50,2019-03-02 00:55:48,2,5.39,21.5,5.06,0.0,30.36,credit card,East Chelsea,Boerum Hill,Manhattan,Brooklyn
 2019-03-16 17:11:33,2019-03-16 17:11:54,1,0.0,120.0,24.06,0.0,144.36,credit card,,,,
@@ -6421,7 +6410,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-23 19:39:44,2019-03-23 19:56:30,1,2.5,12.5,0.0,0.0,15.8,cash,Midtown Center,Yorkville East,Manhattan,Manhattan
 2019-03-25 18:45:31,2019-03-25 19:03:35,1,1.32,12.0,3.26,0.0,19.56,credit card,Midtown East,Midtown North,Manhattan,Manhattan
 2019-03-18 10:25:28,2019-03-18 10:41:18,1,2.6,12.0,2.56,0.0,17.86,credit card,East Harlem North,Upper East Side North,Manhattan,Manhattan
-2019-03-08 11:36:22,2019-03-08 11:38:30,2,0.68,-4.0,0.0,0.0,-7.3,,Lincoln Square West,Upper West Side South,Manhattan,Manhattan
 2019-03-23 14:12:45,2019-03-23 14:21:08,2,0.81,6.5,0.0,0.0,9.8,cash,West Chelsea/Hudson Yards,Penn Station/Madison Sq West,Manhattan,Manhattan
 2019-03-09 00:01:06,2019-03-09 00:11:18,1,1.76,9.0,2.56,0.0,15.36,credit card,Lenox Hill East,Upper East Side North,Manhattan,Manhattan
 2019-03-04 02:11:11,2019-03-04 02:25:39,4,2.69,12.0,0.0,0.0,15.8,cash,West Village,Garment District,Manhattan,Manhattan
@@ -6620,7 +6608,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-14 07:11:27,2019-03-14 08:07:46,1,17.1,52.0,11.05,0.0,66.35,credit card,Garment District,JFK Airport,Manhattan,Queens
 2019-03-01 19:42:07,2019-03-01 19:57:04,2,1.4,10.0,2.15,0.0,16.45,credit card,Flatiron,East Village,Manhattan,Manhattan
 2019-03-10 12:16:35,2019-03-10 12:22:55,1,1.4,7.0,0.0,0.0,10.3,cash,Midtown East,Upper East Side South,Manhattan,Manhattan
-2019-03-02 02:02:56,2019-03-02 02:05:27,1,0.06,-3.5,0.0,0.0,-7.3,,Midtown North,Midtown North,Manhattan,Manhattan
 2019-03-19 11:40:04,2019-03-19 11:50:39,5,1.41,8.5,0.0,0.0,11.8,cash,Upper West Side South,Lincoln Square East,Manhattan,Manhattan
 2019-03-08 19:41:00,2019-03-08 19:53:35,5,1.57,9.5,2.76,0.0,16.56,credit card,Penn Station/Madison Sq West,Greenwich Village South,Manhattan,Manhattan
 2019-03-02 13:44:24,2019-03-02 13:46:47,1,0.2,3.5,1.35,0.0,8.15,credit card,Midtown Center,Midtown East,Manhattan,Manhattan
@@ -6711,7 +6698,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-13 13:49:11,2019-03-13 14:05:06,1,2.74,12.5,1.0,0.0,16.8,credit card,Midtown East,Upper West Side North,Manhattan,Manhattan
 2019-03-26 18:42:23,2019-03-26 18:54:48,1,1.79,10.0,0.0,0.0,14.3,cash,Upper East Side North,Midtown East,Manhattan,Manhattan
 2019-03-07 09:29:08,2019-03-07 09:32:58,1,0.65,4.5,2.34,0.0,10.14,credit card,TriBeCa/Civic Center,Battery Park City,Manhattan,Manhattan
-2019-03-29 00:36:59,2019-03-29 01:11:08,1,0.0,0.0,0.0,0.0,0.0,credit card,Penn Station/Madison Sq West,Roosevelt Island,Manhattan,Manhattan
 2019-03-11 17:57:41,2019-03-11 18:25:10,1,5.7,22.5,2.0,0.0,28.8,credit card,East Harlem South,Greenpoint,Manhattan,Brooklyn
 2019-03-13 23:53:49,2019-03-14 00:00:16,1,1.24,7.0,1.2,0.0,12.0,credit card,Lincoln Square East,Upper West Side South,Manhattan,Manhattan
 2019-03-25 14:57:34,2019-03-25 15:13:35,3,2.42,12.0,3.06,0.0,18.36,credit card,Lenox Hill East,Midtown South,Manhattan,Manhattan
@@ -6981,7 +6967,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-05 20:45:10,2019-03-05 20:53:33,1,1.42,7.5,2.26,0.0,13.56,credit card,Financial District North,Lower East Side,Manhattan,Manhattan
 2019-03-10 14:43:37,2019-03-10 14:54:06,1,2.4,10.0,0.0,0.0,10.8,cash,East Harlem North,Upper West Side North,Manhattan,Manhattan
 2019-03-31 14:02:39,2019-03-31 14:11:23,1,0.8,7.0,2.05,0.0,12.35,credit card,Greenwich Village North,West Village,Manhattan,Manhattan
-2019-03-02 00:54:51,2019-03-02 00:55:58,1,0.08,-3.0,-1.36,0.0,-8.16,,West Village,West Village,Manhattan,Manhattan
 2019-03-11 20:24:03,2019-03-11 20:33:38,1,1.1,7.5,2.0,0.0,13.3,credit card,Midtown South,Flatiron,Manhattan,Manhattan
 2019-03-05 21:26:44,2019-03-05 21:32:28,3,0.7,5.5,0.0,0.0,9.3,cash,Midtown East,Midtown North,Manhattan,Manhattan
 2019-03-03 16:47:29,2019-03-03 16:52:40,1,0.71,5.0,1.24,0.0,9.54,credit card,West Village,Greenwich Village South,Manhattan,Manhattan
@@ -8600,7 +8585,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-12 16:57:38,2019-03-12 17:12:15,2,1.59,10.5,2.96,0.0,17.76,credit card,UN/Turtle Bay South,Clinton East,Manhattan,Manhattan
 2019-03-24 21:03:00,2019-03-24 21:10:12,1,1.6,7.0,1.0,0.0,11.8,credit card,Flatiron,Kips Bay,Manhattan,Manhattan
 2019-03-27 11:29:42,2019-03-27 12:03:05,1,6.4,26.5,0.0,0.0,29.8,cash,Lower East Side,Upper West Side South,Manhattan,Manhattan
-2019-03-20 09:19:48,2019-03-20 09:20:56,1,0.26,-3.0,0.0,0.0,-6.3,,Yorkville East,Lenox Hill East,Manhattan,Manhattan
 2019-03-25 09:44:23,2019-03-25 09:47:03,3,0.47,4.0,1.46,0.0,8.76,credit card,Union Sq,Union Sq,Manhattan,Manhattan
 2019-03-08 08:03:51,2019-03-08 08:13:10,1,1.64,8.0,2.26,0.0,13.56,credit card,Gramercy,West Village,Manhattan,Manhattan
 2019-03-17 15:07:53,2019-03-17 15:16:22,1,1.04,7.0,2.06,0.0,12.36,credit card,Midtown North,Midtown Center,Manhattan,Manhattan
@@ -8774,7 +8758,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-13 04:41:32,2019-03-13 05:09:56,1,14.18,40.0,0.0,0.0,41.3,cash,JFK Airport,Jackson Heights,Queens,Queens
 2019-03-25 11:55:45,2019-03-25 12:00:49,1,0.62,5.0,2.08,0.0,10.38,credit card,Times Sq/Theatre District,Midtown Center,Manhattan,Manhattan
 2019-03-22 19:57:50,2019-03-22 20:02:34,1,0.85,5.5,1.96,0.0,11.76,credit card,Lenox Hill East,Upper East Side North,Manhattan,Manhattan
-2019-03-30 16:10:01,2019-03-30 16:11:46,2,0.28,-3.5,0.0,0.0,-6.8,,Midtown East,Midtown East,Manhattan,Manhattan
 2019-03-04 16:03:56,2019-03-04 16:09:40,1,1.46,6.5,1.62,0.0,12.42,credit card,Manhattanville,Upper West Side North,Manhattan,Manhattan
 2019-03-02 04:12:46,2019-03-02 04:37:00,1,4.72,18.0,4.36,0.0,26.16,credit card,West Chelsea/Hudson Yards,Long Island City/Hunters Point,Manhattan,Queens
 2019-03-23 00:20:16,2019-03-23 00:24:51,1,1.13,5.5,1.86,0.0,11.16,credit card,Clinton East,East Chelsea,Manhattan,Manhattan
@@ -9089,7 +9072,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-01 20:11:28,2019-03-01 20:35:18,1,2.24,15.0,1.0,0.0,19.8,credit card,Midtown South,East Village,Manhattan,Manhattan
 2019-03-26 15:11:47,2019-03-26 15:34:57,2,6.0,21.5,7.0,0.0,31.8,credit card,Financial District South,Lincoln Square East,Manhattan,Manhattan
 2019-03-20 17:19:54,2019-03-20 17:26:24,2,1.0,6.0,2.0,0.0,12.3,credit card,Midtown East,Gramercy,Manhattan,Manhattan
-2019-03-21 07:45:29,2019-03-21 08:29:42,1,0.25,-29.87,0.0,0.0,-30.17,,Upper East Side South,Upper East Side South,Manhattan,Manhattan
 2019-03-24 15:10:29,2019-03-24 15:29:21,1,1.75,12.5,0.0,0.0,15.8,cash,Lincoln Square East,Midtown Center,Manhattan,Manhattan
 2019-03-01 07:37:17,2019-03-01 07:57:16,1,3.4,15.0,3.65,0.0,21.95,credit card,Battery Park City,Times Sq/Theatre District,Manhattan,Manhattan
 2019-03-18 16:09:45,2019-03-18 17:11:36,4,20.12,52.0,11.96,0.0,71.76,credit card,JFK Airport,Financial District South,Queens,Manhattan
@@ -9232,7 +9214,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-31 18:27:01,2019-03-31 18:36:22,1,1.58,8.0,2.26,0.0,13.56,credit card,Times Sq/Theatre District,Flatiron,Manhattan,Manhattan
 2019-03-23 05:56:52,2019-03-23 06:23:03,1,19.7,52.0,12.2,5.76,73.26,credit card,JFK Airport,Yorkville East,Queens,Manhattan
 2019-03-10 16:56:15,2019-03-10 17:06:52,1,2.39,9.5,3.2,0.0,16.0,credit card,Murray Hill,Upper East Side North,Manhattan,Manhattan
-2019-03-01 21:03:15,2019-03-01 21:04:13,1,0.35,-3.0,0.0,0.0,-6.8,,Times Sq/Theatre District,Times Sq/Theatre District,Manhattan,Manhattan
 2019-03-20 14:07:42,2019-03-20 14:11:46,3,0.6,5.0,1.65,0.0,9.95,credit card,Battery Park,World Trade Center,Manhattan,Manhattan
 2019-03-21 17:41:46,2019-03-21 17:45:13,1,0.56,4.5,2.64,0.0,11.44,credit card,Lincoln Square East,Clinton East,Manhattan,Manhattan
 2019-03-10 10:30:53,2019-03-10 10:34:59,4,0.68,4.5,1.56,0.0,9.36,credit card,Sutton Place/Turtle Bay North,Sutton Place/Turtle Bay North,Manhattan,Manhattan
@@ -9665,7 +9646,6 @@ pickup,dropoff,passengers,distance,fare,tip,tolls,total,payment,pickup_zone,drop
 2019-03-08 12:03:04,2019-03-08 12:04:32,2,0.27,3.0,0.94,0.0,7.24,credit card,Upper West Side South,Upper West Side South,Manhattan,Manhattan
 2019-03-08 19:39:06,2019-03-08 20:08:06,1,2.46,18.5,4.56,0.0,27.36,credit card,Sutton Place/Turtle Bay North,West Chelsea/Hudson Yards,Manhattan,Manhattan
 2019-03-28 12:29:18,2019-03-28 12:53:16,1,2.39,16.0,3.86,0.0,23.16,credit card,Midtown North,Upper East Side North,Manhattan,Manhattan
-2019-03-24 18:35:56,2019-03-24 18:37:10,1,0.0,-3.0,0.0,0.0,-6.3,,Midtown Center,Midtown Center,Manhattan,Manhattan
 2019-03-30 06:38:31,2019-03-30 06:42:07,1,1.56,6.5,2.2,0.0,12.0,credit card,Flatiron,Times Sq/Theatre District,Manhattan,Manhattan
 2019-03-07 13:35:55,2019-03-07 13:53:16,1,1.33,11.5,2.96,0.0,17.76,credit card,Midtown Center,Clinton West,Manhattan,Manhattan
 2019-03-13 09:37:12,2019-03-13 09:47:21,1,1.41,8.0,1.0,0.0,12.3,credit card,Upper West Side North,East Harlem South,Manhattan,Manhattan

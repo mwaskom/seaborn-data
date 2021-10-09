@@ -36,6 +36,7 @@ if __name__ == "__main__":
         .assign(pickup_borough=raw["pulocationid"].map(loc["borough"]))
         .assign(dropoff_borough=raw["dolocationid"].map(loc["borough"]))
         .loc[lambda x: x.eval("dropoff - pickup").dt.seconds < MAX_TRIP_DURATION]
+        .loc[lambda x: x["fare"] > 0]
     )
 
     clean.to_csv("taxis.csv", index=False)

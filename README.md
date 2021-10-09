@@ -21,3 +21,5 @@ A partial list of where these datasets originate from.
 - `penguins`: https://github.com/allisonhorst/penguins
 
 - `planets`: https://exoplanets.nasa.gov/exoplanet-catalog/
+
+- `taxis`: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
