@@ -1,0 +1,11 @@
+import pandas as pd
+
+def main():
+
+    df = pd.read_csv("raw/Automobile.csv")
+    df = pd.DataFrame(df)
+    df.to_csv("Automobile.csv")
+
+
+if __name__ == "__main__":
+    main()
