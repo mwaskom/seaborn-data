@@ -1,6 +1,6 @@
 "total_bill","tip","sex","smoker","day","time","size"
 16.99,1.01,"Female","No","Sun","Dinner",2
-10.34,1.66,"Male","No","Sun","Dinner",3
+10.34,"N/A","Male","No","Sun","Dinner",3
 21.01,3.5,"Male","No","Sun","Dinner",3
 23.68,3.31,"Male","No","Sun","Dinner",2
 24.59,3.61,"Female","No","Sun","Dinner",4
@@ -17,7 +17,7 @@
 21.58,3.92,"Male","No","Sun","Dinner",2
 10.33,1.67,"Female","No","Sun","Dinner",3
 16.29,3.71,"Male","No","Sun","Dinner",3
-16.97,3.5,"Female","No","Sun","Dinner",3
+16.97,"N/A","Female","No","Sun","Dinner",3
 20.65,3.35,"Male","No","Sat","Dinner",3
 17.92,4.08,"Male","No","Sat","Dinner",2
 20.29,2.75,"Female","No","Sat","Dinner",2
@@ -38,7 +38,7 @@
 16.31,2,"Male","No","Sat","Dinner",3
 16.93,3.07,"Female","No","Sat","Dinner",3
 18.69,2.31,"Male","No","Sat","Dinner",3
-31.27,5,"Male","No","Sat","Dinner",3
+31.27,"N/A","Male","No","Sat","Dinner",3
 16.04,2.24,"Male","No","Sat","Dinner",3
 17.46,2.54,"Male","No","Sun","Dinner",2
 13.94,3.06,"Male","No","Sun","Dinner",2
