@@ -19,6 +19,7 @@ A partial list of where these datasets originate from.
 - `car_crashes`: https://www.kaggle.com/fivethirtyeight/fivethirtyeight-bad-drivers-dataset
 - `diamonds`: https://ggplot2.tidyverse.org/reference/diamonds.html
 - `dots`: https://shadlenlab.columbia.edu/resources/RoitmanDataCode.html
+- `dowjones`: https://fred.stlouisfed.org/series/M1109BUSM293NNBR
 - `exercise`: https://psych252.github.io
 - `fmri`: https://github.com/mwaskom/Waskom_CerebCortex_2017
 - `geyser`: https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/faithful.html
