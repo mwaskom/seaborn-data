@@ -24,5 +24,6 @@ if __name__ == "__main__":
         pd.read_csv("raw/healthexp.csv")
         .assign(Country=lambda x: x["Country"].map(G7_countries))
         .dropna(subset=["Country"])
+        .query("Year <= 2020")
         .to_csv("healthexp.csv", index=False)
     )
