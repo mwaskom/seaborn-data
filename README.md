@@ -33,3 +33,29 @@ A partial list of where these datasets originate from.
 - `taxis`:  https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - `tips`: https://rdrr.io/cran/reshape2/man/tips.html
 - `titanic`: https://www.kaggle.com/c/titanic/data
+
+<!-- Enumerate the datasets in a format that seaborn.get_dataset_names expects
+     See https://github.com/mwaskom/seaborn-data/issues/33 for context
+     /mwaskom/seaborn-data/blob/master/anagrams.csv
+     /mwaskom/seaborn-data/blob/master/anscombe.csv
+     /mwaskom/seaborn-data/blob/master/attention.csv
+     /mwaskom/seaborn-data/blob/master/brain_networks.csv
+     /mwaskom/seaborn-data/blob/master/car_crashes.csv
+     /mwaskom/seaborn-data/blob/master/diamonds.csv
+     /mwaskom/seaborn-data/blob/master/dots.csv
+     /mwaskom/seaborn-data/blob/master/dowjones.csv
+     /mwaskom/seaborn-data/blob/master/exercise.csv
+     /mwaskom/seaborn-data/blob/master/flights.csv
+     /mwaskom/seaborn-data/blob/master/fmri.csv
+     /mwaskom/seaborn-data/blob/master/geyser.csv
+     /mwaskom/seaborn-data/blob/master/glue.csv
+     /mwaskom/seaborn-data/blob/master/healthexp.csv
+     /mwaskom/seaborn-data/blob/master/iris.csv
+     /mwaskom/seaborn-data/blob/master/mpg.csv
+     /mwaskom/seaborn-data/blob/master/penguins.csv
+     /mwaskom/seaborn-data/blob/master/planets.csv
+     /mwaskom/seaborn-data/blob/master/seaice.csv
+     /mwaskom/seaborn-data/blob/master/taxis.csv
+     /mwaskom/seaborn-data/blob/master/tips.csv
+     /mwaskom/seaborn-data/blob/master/titanic.csv
+-->
